@@ -6,7 +6,7 @@ A simple personal repository to learn a bit about AES Encryption using PHP/Mcryp
 - Run composer to install required libraries. If you don't have composer google it how to get it;
 - `composer install`
 - Edit the config/config.yml with your secret key. This string will be converted to a 32 chars md5 hash before getting encrypted to AES-256;
-- Run the example! `php example.oho` The string to be encrypted is `$plaintext` inside example.php
+- Run the example! `php example.php` The string to be encrypted is `$plaintext` inside example.php
 
 **This is the output:**
 
