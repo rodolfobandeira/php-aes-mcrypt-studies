@@ -25,4 +25,4 @@ This string was AES-256 / CBC / ZeroBytePadding encrypted.
 
 Reference:
 
-- [http://php.net/mcrypt_encrypt] (http://php.net/mcrypt_encrypt)
+- [http://php.net/mcrypt_encrypt](http://php.net/mcrypt_encrypt)
